@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jeremiahtam
+- 👀 I’m interested in front end web and app development
+- 🌱 I’m currently learning laravel
+- 📫 How to reach me: Email - jerry4destinychild@yahoo.com
